@@ -4,7 +4,7 @@ import { getFirestore, collection, addDoc, serverTimestamp, query, onSnapshot, o
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBuZkyzW2gm9donpuF5oyVpYQb4kKmE8KY",
+    apiKey: "",
     authDomain: "chat-1a6ee.firebaseapp.com",
     projectId: "chat-1a6ee",
     storageBucket: "chat-1a6ee.appspot.com",
